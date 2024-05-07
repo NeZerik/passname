@@ -1,0 +1,39 @@
+body{
+    background-color: #29652f;
+    font-family: sans-serif;
+}
+form{
+    font-size: 50px;
+    color: #c0f399;
+}
+.f3{
+    padding: 5px;
+}
+.cb{
+    width: 30px;
+    height: 30px;
+}
+.r1{
+    font-size: 30px;
+}
+select {
+    padding: 8px;
+    font-size: 20px; 
+    width: auto; 
+  }
+.a1{
+    text-decoration: none;
+    font-size: 30px;
+    border: 2px solid rgb(149, 149, 242); 
+    color: rgb(57, 57, 204);
+    background-color: rgb(239, 239, 158);
+    padding: 5px;
+    box-shadow:  2px 2px 1px rgb(236, 221, 248) ;
+}
+.a1:hover{
+    border: 2px solid rgb(149, 242, 225); 
+    color: rgb(173, 176, 101);
+    background-color: rgb(232, 158, 239);
+    padding: 5px;
+    box-shadow:  3px 3px 3px rgb(195, 131, 248) ;
+}
